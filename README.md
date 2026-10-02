@@ -32,11 +32,11 @@ The player never aggregates, hosts, or redistributes content — you bring your 
 
 ## Screenshots / 截图
 
-*(R1 acceptance captures — 简体中文界面 / Simplified Chinese UI)*
+*(R1 acceptance captures — live playback of real channels — 简体中文界面 / Simplified Chinese UI)*
 
-| Windows · Home | Windows · Playing | Android · Home |
-|---|---|---|
-| ![Windows home](wa-desktop-home.png) | ![Windows playing](wa-desktop-playing.png) | ![Android home](wa-android-home.png) |
+| Windows · Home | Windows · Live (Korea EBS) | Windows · Live (Japan NHK) | Android · Home |
+|---|---|---|---|
+| ![Windows home](wa-desktop-home.png) | ![Windows live](wa-desktop-playing.png) | ![Windows live 2](wa-desktop-live2.png) | ![Android home](wa-android-home.png) |
 
 ![App icon](world-around-icon.png)
 
